@@ -1,0 +1,11 @@
+{
+  "name": "gravitycanvas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gravityCanvas.js",
+  "scripts": {
+    "start": "Gravityhtml.html"
+},
+  "author": "",
+  "license": "ISC"
+}
